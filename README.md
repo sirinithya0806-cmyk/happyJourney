@@ -4,6 +4,7 @@ customisable trip planner
 a
 b
 c
+
 ->locations
 ->budget
 ->Accomodation
